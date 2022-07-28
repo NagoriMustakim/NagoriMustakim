@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mustakim
 #### Full stack Blockchain developer
-![Full stack Blockchain developer](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fz%2Fstock-vector-businessman-is-working-on-the-desk-with-laptop-cartoon-vector-550551796.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fbusinessman-working-on-desk-laptop-cartoon-550551796&tbnid=JvpBrY6hKZPBZM&vet=10CBkQxiAoCmoXChMI2Pa95oab-QIVAAAAAB0AAAAAEAY..i&docid=jgWafv1abLeElM&w=1500&h=1600&itg=1&q=3d%20man%20with%20laptop%20&ved=0CBkQxiAoCmoXChMI2Pa95oab-QIVAAAAAB0AAAAAEAY)
+![Design and Development](https://github.com/NagoriMustakim/NagoriMustakim/blob/main/pic-3.png)
 
 I am a software engineer & learning full stack blockchain development
 
