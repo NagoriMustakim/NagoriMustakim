@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Mustakim
 #### Full stack Blockchain developer
-![Design and Development](https://github.com/NagoriMustakim/NagoriMustakim/blob/main/pic-3.png)
 
 I am a software engineer & learning full stack blockchain development
 
