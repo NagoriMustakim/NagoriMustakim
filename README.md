@@ -12,7 +12,7 @@ I am a Blockchain developer and enthusiastic about the blockchain and web3 indus
 - 👯 I’m looking to collaborate on blockchain & web-3 projects 
 - 🤔 I’m looking for help with the dev 
 - 💬 Ask me about Solidity, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat. 
-- 🖥️  See my portfolio at [MyPortfolio](http://https://nagorimustakim.github.io/Mustakim-Portfolio/)
+- 🖥️  See my portfolio at [MyPortfolio](https://react-portfolio-beta-three.vercel.app/)
 - 📫 How to reach me: mustakimkhan1111176@gmail.com 
 - ⚡ Fun fact: watch daily memes 
 
