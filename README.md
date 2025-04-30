@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustakim Nagori
 =======================================================================================================================================
 
-Full Stack Blockchain Developer || Web Developer
+Full Stack Blockchain Developer || .NET core & Angular
 ------------------------------------------------
 
 I am a Blockchain developer and enthusiastic about the blockchain and web3 industry, looking forward to learning something new every day and contributing to the industry!
