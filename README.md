@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mustakim
 =======================================================================================================================================
 
-Software Developer || Automation Solutions || Blockchain
+Software Developer || AI Engineer & Automation Solutions || Blockchain
 ------------------------------------------------
 
 I am a software developer with solid experience in AI Engineering and the Web3 industry, looking forward to learning something new every day and contributing to the industry!
